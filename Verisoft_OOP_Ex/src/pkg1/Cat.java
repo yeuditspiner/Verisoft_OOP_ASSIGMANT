@@ -22,7 +22,7 @@ public class Cat extends Animal implements Land {
                 System.out.println("hiss");
                 break;
             default:
-                System.out.println("meow~");
+                System.out.println("meow~");//usually
         }
     }
 
