@@ -22,7 +22,7 @@ public class Dog extends Animal implements Land {
                 System.out.println("whooping");
                 break;
             default:
-                System.out.println("wagging their tails");
+                System.out.println("wagging their tails");//usually
         }
     }
 
